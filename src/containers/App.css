@@ -24,6 +24,7 @@
   flex-direction: row;
   display: flex;
   flex-wrap: wrap;
+  margin: 0 10%;
 }
 
 .App-content {

@@ -1,10 +1,9 @@
 .event-card {
     border-radius: 8px;
-    align-content: flex-start;
     color: #555;
     margin: 4vh;
     background-color: #fff;
-    width: 24vw;
+    width: 22vw;
     text-align: left;
     cursor:pointer;
 }
