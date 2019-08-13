@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
 import EventCard from '../components/Event.jsx'
-import { Link } from 'react-router-dom';
 
 class App extends Component{
   state = {
